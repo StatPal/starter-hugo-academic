@@ -11,7 +11,7 @@ role: PhD student of Statistics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Iowa State University
-    url: https://www.iastate.edu/
+    url: https://www.stat.iastate.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computational Statistics, Spatial Statistics and Machine Learning.
@@ -72,7 +72,5 @@ highlight_name: true
 ---
 
 Subrata Pal is a PhD student of Statistics at the Iowa State University, Department of Statistics. His research interests include Computational Statistics, Spatial Statistics and Machine Learning. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
