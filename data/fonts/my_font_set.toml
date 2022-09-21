@@ -43,11 +43,11 @@ name = "my_font_set"
 ## So it is changing
 
 # Optional Google font URL
-google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
+google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Comfortaa:wght@400;700&display=swap"
 
 # Font families
 heading_font = "Lora"
-body_font = "Roboto"
+body_font = "Comfortaa"
 nav_font = "Lora"
 mono_font = "Cutive Mono"
 
