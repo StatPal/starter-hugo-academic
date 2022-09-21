@@ -8,7 +8,7 @@
 appearance:
   theme_day: coffee
   theme_night: coffee
-  font: my_font_set
+  font: cyberpunk
   font_size: m
 
 # SEO
