@@ -37,3 +37,20 @@ mono_font = "B612 Mono"
 #body_font = "Roboto"
 #nav_font = "Lora"
 #mono_font = "Cutive Mono"
+
+
+
+## So it is changing
+
+# Optional Google font URL
+google_fonts = "family=Cutive+Mono&family=Comfortaa:wght@400;700&family=Roboto:wght@400;700&display=swap"
+
+# Font families
+heading_font = "Comfortaa"
+body_font = "Roboto"
+nav_font = "Comfortaa"
+mono_font = "Cutive Mono"
+
+
+
+
