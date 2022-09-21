@@ -1,0 +1,14 @@
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+google_fonts = "Comfortaa:400,700|Cormorant+Garamond:400,400italic,700|Poiret+One|Indie+Flower|Philosopher|Space+Mono"
+
+# Font families
+heading_font = "Comfortaa"
+body_font = "Roboto"
+nav_font = "Poiret One"
+mono_font = "Space Mono"
+
+# https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/modules/wowchemy/data/fonts/minimal.toml
+# And Learn from https://github.com/wowchemy/wowchemy-hugo-themes/discussions/1879
