@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: coffee
-  theme_night: coffee
-  font: classic
+  theme_day: forest
+  theme_night: forest
+  font: cyberpunk
   font_size: m
 
 # SEO
